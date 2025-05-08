@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6bbc4fd45ce4c288d07344493f0c986, type: 3}
   m_Name: RectangleMapLayout
   m_EditorClassIdentifier: 
-  size: {x: 11, y: 11}
+  size: {x: 6, y: 7}

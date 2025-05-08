@@ -162,9 +162,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33fe8d055f829574bb6be8ebc501ae50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  size: {x: 11, y: 11}
-  scale: {x: 1, y: 1}
   constructor: {fileID: 334573743}
+  cam: {fileID: 1842493804}
+  layout: {fileID: 11400000, guid: fe7eb6dce419d73409af4b8c31410520, type: 2}
 --- !u!4 &334573745
 Transform:
   m_ObjectHideFlags: 0
